@@ -163,7 +163,7 @@ int main(void) {
 
   printf(COLOR_CYAN "\n╔════════════════════════════════════════════╗\n");
   printf(           "║                ⟦ aeScan ⟧                  ║\n");
-  printf(           "║         adaptive network scanner           ║\n");
+  printf(           "║        adaptive efficient scanner          ║\n");
   printf(           "╚════════════════════════════════════════════╝\n" COLOR_RESET);
 
   if (!get_local_network(&ip, &mask)) {
